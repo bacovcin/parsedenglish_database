@@ -1,6 +1,12 @@
 from copy import copy
 from PTree import ParseTree, MatchParen
 
+def tryint(x):
+    try:
+        return(int(x))
+    except:
+        return(-1000)
+
 
 def POSSearch(tree):
     foreign = []
@@ -237,7 +243,7 @@ print('Writing out database...')
 outfile = open('English_database.txt', 'w')
 outfile.write(':'.join(db_names) + '\n')
 for fn in sorted(db.keys()):
-    for text in sorted(db[fn].keys()):
+    for text in sorted(db[fn].keys(), key=lambda x: tryint(x[0])):
         i += 1
         print('Database line #' + str(i))
         outtext = fn + ':' + text[0] + ':' + text[1] + ':'

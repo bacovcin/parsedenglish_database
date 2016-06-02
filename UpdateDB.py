@@ -1,11 +1,16 @@
 from copy import copy
 from PTree import ParseTree, MatchParen
 
+# Returns integer for integer strings or -1000 for non-int
+
+
 def tryint(x):
     try:
         return(int(x))
     except:
         return(-1000)
+
+# Search for Part Of Speech types
 
 
 def POSSearch(tree):
@@ -51,9 +56,12 @@ def ParseFile(infile, db):
 
     identified_texts = {}
     for key1 in db.keys():
-        identified_texts[key1] = {}
         for key2 in db[key1].keys():
-            identified_texts[key1][key2] = []
+            try:
+                identified_texts[key2[0]][(key2[1], key2[2])] = []
+            except:
+                identified_texts[key2[0]] = {}
+                identified_texts[key2[0]][(key2[1], key2[2])] = []
     unidentified_texts = {}
     token = ''
     i = 0
@@ -101,8 +109,8 @@ bkp_file = open('English_database.bkp', 'w')
 db_names = db_file[0].rstrip().split(':')
 bkp_file.write(db_file[0])
 # Dictionary of dictionaries:
-# Key 1: Filename
-# Key 2: (start token number, end token number)
+# Key 1: TextID
+# Key 2: (filename, start token number, end token number)
 # Value: dictionary of column values (including above material)
 db = {}
 
@@ -112,49 +120,75 @@ for line in db_file[1:]:
     s = line.rstrip().split(':')
     db_entry = {}
     for i in range(len(db_names)):
-        db_entry[db_names[i]] = s[i]
+        try:
+            db_entry[db_names[i]] = s[i]
+        except:
+            db_entry[db_names[i]] = 'x'
     try:
-        db[s[0]][(s[1], s[2])] = copy(db_entry)
+        db[s[0]][(s[1], s[2], s[3])] = copy(db_entry)
     except:
         db[s[0]] = {}
-        db[s[0]][(s[1], s[2])] = copy(db_entry)
+        db[s[0]][(s[1], s[2], s[3])] = copy(db_entry)
 
 bkp_file.close()
 print('Parsing texts')
 identified_texts, unidentified_texts = ParseFile(open('corpus.txt'), db)
 
+textids = {}
+for key in db.keys():
+    textids[key] = []
+
 print('Updating identified text')
 for fn in identified_texts.keys():
     for text in identified_texts[fn].keys():
+        key2 = (fn, text[0], text[1])
+        for key in db.keys():
+            if key2 in db[key].keys():
+                textid = key
+                break
+        else:
+            print(key2)
+            input('ERROR!!! ERROR!!!')
+        textids[textid] += identified_texts[fn][text]
+
+for fn in identified_texts.keys():
+    for text in identified_texts[fn].keys():
+        key2 = (fn, text[0], text[1])
+        for key in db.keys():
+            if key2 in db[key].keys():
+                textid = key
+                break
+        else:
+            print(key2)
+            input('ERROR!!! ERROR!!!')
         foreign = []
         names = []
         oc = []
         words = []
-        for tree in identified_texts[fn][text]:
+        for tree in textids[textid]:
             output = POSSearch(tree)
             foreign += output[0]
             names += output[1]
             oc += output[2]
             words += output[3]
-        db[fn][text]['Words'] = str(len(words))
-        db[fn][text]['OCWords'] = str(len(oc))
-        db[fn][text]['NamWords'] = str(len(names))
-        db[fn][text]['ForWords'] = str(len(foreign))
+        db[textid][key2]['Words'] = str(len(words))
+        db[textid][key2]['OCWords'] = str(len(oc))
+        db[textid][key2]['NamWords'] = str(len(names))
+        db[textid][key2]['ForWords'] = str(len(foreign))
 
-        db[fn][text]['Types'] = str(len(set(words)))
-        db[fn][text]['OCTypes'] = str(len(set(oc)))
-        db[fn][text]['NamTypes'] = str(len(set(names)))
-        db[fn][text]['ForTypes'] = str(len(set(foreign)))
+        db[textid][key2]['Types'] = str(len(set(words)))
+        db[textid][key2]['OCTypes'] = str(len(set(oc)))
+        db[textid][key2]['NamTypes'] = str(len(set(names)))
+        db[textid][key2]['ForTypes'] = str(len(set(foreign)))
 
-        db[fn][text]['Chars'] = str(len([y for x in words for y in x]))
-        db[fn][text]['OCChars'] = str(len([y for x in oc for y in x]))
-        db[fn][text]['NamChars'] = str(len([y for x in names for y in x]))
-        db[fn][text]['ForChars'] = str(len([y for x in foreign for y in x]))
+        db[textid][key2]['Chars'] = str(len([y for x in words for y in x]))
+        db[textid][key2]['OCChars'] = str(len([y for x in oc for y in x]))
+        db[textid][key2]['NamChars'] = str(len([y for x in names for y in x]))
+        db[textid][key2]['ForChars'] = str(len([y for x in foreign for y in x]))
 
-        db[fn][text]['Tokens'] = str(len(identified_texts[fn][text]))
+        db[textid][key2]['Tokens'] = str(len(textids[textid]))
 
 print('Collecting data on unidentified texts')
-key = ('x', 'x')
 oasklist = ['YoC',
             'YoM',
             'AuthName',
@@ -170,12 +204,16 @@ lasklist = ['YoC',
             'RecSex',
             'RecRelation']
 
+unident_id = 1
 for fn in unidentified_texts.keys():
+    key1 = 'x' + str(unident_id)
+    unident_id += 1
+    key2 = (fn, 'x', 'x')
     try:
-        db[fn][key] = {}
+        db[key1][key2] = {}
     except:
-        db[fn] = {}
-        db[fn][key] = {}
+        db[key1] = {}
+        db[key1][key2] = {}
     foreign = []
     names = []
     oc = []
@@ -186,58 +224,58 @@ for fn in unidentified_texts.keys():
         names += output[1]
         oc += output[2]
         words += output[3]
-    db[fn][key]['Words'] = str(len(words))
-    db[fn][key]['OCWords'] = str(len(oc))
-    db[fn][key]['NamWords'] = str(len(names))
-    db[fn][key]['ForWords'] = str(len(foreign))
+    db[key1][key2]['Words'] = str(len(words))
+    db[key1][key2]['OCWords'] = str(len(oc))
+    db[key1][key2]['NamWords'] = str(len(names))
+    db[key1][key2]['ForWords'] = str(len(foreign))
 
-    db[fn][key]['Types'] = str(len(set(words)))
-    db[fn][key]['OCTypes'] = str(len(set(oc)))
-    db[fn][key]['NamTypes'] = str(len(set(names)))
-    db[fn][key]['ForTypes'] = str(len(set(foreign)))
+    db[key1][key2]['Types'] = str(len(set(words)))
+    db[key1][key2]['OCTypes'] = str(len(set(oc)))
+    db[key1][key2]['NamTypes'] = str(len(set(names)))
+    db[key1][key2]['ForTypes'] = str(len(set(foreign)))
 
-    db[fn][key]['Chars'] = str(len([y for x in words for y in x]))
-    db[fn][key]['OCChars'] = str(len([y for x in oc for y in x]))
-    db[fn][key]['NamChars'] = str(len([y for x in names for y in x]))
-    db[fn][key]['ForChars'] = str(len([y for x in foreign for y in x]))
+    db[key1][key2]['Chars'] = str(len([y for x in words for y in x]))
+    db[key1][key2]['OCChars'] = str(len([y for x in oc for y in x]))
+    db[key1][key2]['NamChars'] = str(len([y for x in names for y in x]))
+    db[key1][key2]['ForChars'] = str(len([y for x in foreign for y in x]))
 
-    db[fn][key]['Tokens'] = str(len(unidentified_texts[fn]))
+    db[key1][key2]['Tokens'] = str(len(unidentified_texts[fn]))
 
-    db[fn][key]['Lat'] = 'x'
-    db[fn][key]['Long'] = 'x'
-    db[fn][key]['Location'] = 'x'
-    db[fn][key]['Dialect'] = 'x'
+    db[key1][key2]['Lat'] = 'x'
+    db[key1][key2]['Long'] = 'x'
+    db[key1][key2]['Location'] = 'x'
+    db[key1][key2]['Dialect'] = 'x'
 
     token = unidentified_texts[fn][0]
     if token.content[0].name == 'METADATA':
         print(token.content[0])
     print(token.content[-1].content)
-    db[fn][key]['Genre'] = input('What is the value of column Genre?\n')
+    db[key1][key2]['Genre'] = input('What is the value of column Genre?\n')
 
-    if db[fn][key]['Genre'].lower() == 'l':
+    if db[key1][key2]['Genre'].lower() == 'l':
         for ask in lasklist:
-            db[fn][key][ask] = input('What is the value of column ' +
+            db[key1][key2][ask] = input('What is the value of column ' +
                                      ask +
                                      '?\n').rstrip()
     else:
-        db[fn][key]['RecName'] = 'x'
-        db[fn][key]['RecBD'] = 'x'
-        db[fn][key]['RecSex'] = 'x'
-        db[fn][key]['RecRelation'] = 'x'
+        db[key1][key2]['RecName'] = 'x'
+        db[key1][key2]['RecBD'] = 'x'
+        db[key1][key2]['RecSex'] = 'x'
+        db[key1][key2]['RecRelation'] = 'x'
         for ask in oasklist:
-            db[fn][key][ask] = input('What is the value of column ' +
+            db[key1][key2][ask] = input('What is the value of column ' +
                                      ask +
                                      '?\n').rstrip()
     try:
-        db[fn][key]['AuthAge'] = str(int(db[fn][key]['YoC']) -
-                                     int(db[fn][key]['AuthBD']))
+        db[key1][key2]['AuthAge'] = str(int(db[key1][key2]['YoC']) -
+                                     int(db[key1][key2]['AuthBD']))
     except:
-        db[fn][key]['AuthAge'] = 'x'
+        db[key1][key2]['AuthAge'] = 'x'
     try:
-        db[fn][key]['RecAge'] = str(int(db[fn][key]['YoC']) -
-                                    int(db[fn][key]['RecBD']))
+        db[key1][key2]['RecAge'] = str(int(db[key1][key2]['YoC']) -
+                                    int(db[key1][key2]['RecBD']))
     except:
-        db[fn][key]['RecAge'] = 'x'
+        db[key1][key2]['RecAge'] = 'x'
 
 print('Writing out database...')
 outfile = open('English_database.txt', 'w')

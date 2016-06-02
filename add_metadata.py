@@ -32,10 +32,10 @@ db = {}
 for line in dbfile[1:]:
     s = line.rstrip().split(':')
     try:
-        db[s[0]][(s[1], s[2])] = '\t'.join(s)
+        db[s[1]][(s[2], s[3])] = '\t'.join(s)
     except:
-        db[s[0]] = {}
-        db[s[0]][(s[1], s[2])] = '\t'.join(s)
+        db[s[1]] = {}
+        db[s[1]][(s[2], s[3])] = '\t'.join(s)
 
 # Load the coding output
 coded_file = open(argv[2]).readlines()

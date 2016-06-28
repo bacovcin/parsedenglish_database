@@ -42,7 +42,7 @@ coded_file = open(argv[2]).readlines()
 
 # Open the final file
 outfile = open(argv[3], 'w+')
-outfile.write(names + '\t' + '\t'.join(argv[4:]) + '\n')
+outfile.write(names + '\t' + 'token.id' + '\t' + '\t'.join(argv[4:]) + '\n')
 
 # Walk through output and append appropriate metadata
 keyerrors = []

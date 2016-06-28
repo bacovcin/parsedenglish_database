@@ -4808,7 +4808,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 542.1:russell-e1-p2:x:x:x:x:x:x:public_letter:1538:1538:John_Russel:1485:m:53:Thomas_Cromwell:1485:m:53:dist_eql:387:125:19:0:192:94:16:0:1735:757:142:0:11
 542.1:russell-e1-h:x:x:x:x:x:x:public_letter:1538:1538:John_Russel:1485:m:53:Thomas_Cromwell:1485:m:53:dist_eql:387:125:19:0:192:94:16:0:1735:757:142:0:11
 543.1:rutland:107:111:x:x:x:x:public_letter:1503:1503:Henry_Tudor_Vii:1457:m:46:Henry_Vernon:1445:m:58:x:339:94:9:0:165:78:6:0:1893:627:60:0:5
-543.2:rutland:15:30:x:x:x:x:private_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445?:m:47?:172:54:4:0:104:51:4:0:908:341:19:0:2
+543.2:rutland:15:30:x:x:x:x:private_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445?:m:47?:x:172:54:4:0:104:51:4:0:908:341:19:0:2
 543.3:rutland:31:34:x:x:x:x:public_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445:m:47:x:287:92:6:1:157:82:6:1:1602:630:46:8:4
 543.4:rutland:49:51:x:x:x:x:public_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445:m:47:x:110:34:2:0:71:32:2:0:675:201:14:0:3
 543.5:rutland:66:73:x:x:x:x:public_letter:1490:1490:Anne_Vernon:_:f:_:William_Rollasley:_:m:_:x:190:45:14:0:102:39:13:0:1330:250:83:0:8
@@ -5820,7 +5820,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 71.1:carlyle-1837-1:x:x:x:x:x:x:history:1837:1837:Thomas_Carlyle:1795:m:42:x:xxxx:x:xx:x:28766:10967:1198:196:5678:4372:453:120:126378:65692:8217:1407:1746
 72.1:cecil:100:110:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:266:76:18:0:153:73:13:0:2086:493:86:0:11
 72.2:cecil:124:136:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:259:72:18:4:137:64:16:4:2059:404:115:20:12
-72.3:cecil:15:43:x:x:x:x:private_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:373:111:19:8:204:97:17:8:2808:681:117:42:14
+72.3:cecil:15:43:x:x:x:x:private_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:373:111:19:8:204:97:17:8:2808:681:117:42:14
 72.4:cecil:151:159:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:195:44:18:0:106:42:18:0:1508:234:125:0:9
 72.5:cecil:44:60:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:515:150:10:0:222:120:10:0:3473:897:70:0:16
 72.6:cecil:74:86:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:335:109:5:0:165:92:5:0:2534:709:30:0:13

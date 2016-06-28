@@ -1390,9 +1390,9 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 287.1:edmondes-e2-p2:x:x:x:x:x:x:public_letter:1599:1599:Thomas_Edmondes:1563:m:36:x:xxxx:x:xx:x:4344:1449:164:2:1126:797:83:2:19332:9714:1078:8:127
 287.1:edmondes-e2-h:x:x:x:x:x:x:public_letter:1599:1599:Thomas_Edmondes:1563:m:36:x:xxxx:x:xx:x:4344:1449:164:2:1126:797:83:2:19332:9714:1078:8:127
 287.1:edmondes-e2-p1:x:x:x:x:x:x:public_letter:1599:1599:Thomas_Edmondes:1563:m:36:x:xxxx:x:xx:x:4344:1449:164:2:1126:797:83:2:19332:9714:1078:8:127
-288.1:edward-e1-p1:x:x:x:x:x:x:D:1551:1552:Edward_Tudor:1537:m:14:x:xxxx:x:xx:x:20231:6823:2134:88:3950:2428:953:49:88502:37893:13844:426:1367
-288.1:edward-e1-h:x:x:x:x:x:x:D:1551:1552:Edward_Tudor:1537:m:14:x:xxxx:x:xx:x:20231:6823:2134:88:3950:2428:953:49:88502:37893:13844:426:1367
-288.1:edward-e1-p2:x:x:x:x:x:x:D:1551:1552:Edward_Tudor:1537:m:14:x:xxxx:x:xx:x:20231:6823:2134:88:3950:2428:953:49:88502:37893:13844:426:1367
+288.1:edward-e1-p1:x:x:x:x:x:x:diary:1551:1552:Edward_Tudor:1537:m:14:x:xxxx:x:xx:x:20231:6823:2134:88:3950:2428:953:49:88502:37893:13844:426:1367
+288.1:edward-e1-h:x:x:x:x:x:x:diary:1551:1552:Edward_Tudor:1537:m:14:x:xxxx:x:xx:x:20231:6823:2134:88:3950:2428:953:49:88502:37893:13844:426:1367
+288.1:edward-e1-p2:x:x:x:x:x:x:diary:1551:1552:Edward_Tudor:1537:m:14:x:xxxx:x:xx:x:20231:6823:2134:88:3950:2428:953:49:88502:37893:13844:426:1367
 289.1:ehatton-e3-p1:x:x:x:x:x:x:private_letter:1666:1666:Elizabeth_Hatton_1:1650:f:16:William_Hatton:1590:x:76:xxxx:388:113:11:0:181:94:10:0:1395:578:67:0:15
 289.1:ehatton-e3-h:x:x:x:x:x:x:private_letter:1666:1666:Elizabeth_Hatton_1:1650:f:16:William_Hatton:1590:x:76:xxxx:388:113:11:0:181:94:10:0:1395:578:67:0:15
 289.1:ehatton-e3-p2:x:x:x:x:x:x:private_letter:1666:1666:Elizabeth_Hatton_1:1650:f:16:William_Hatton:1590:x:76:xxxx:388:113:11:0:181:94:10:0:1395:578:67:0:15
@@ -1683,11 +1683,11 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 298.1:essexstate-e2-h:x:x:x:x:x:x:trial:1600:1600:x:xxxx:x:xx:x:xxxx:x:xx:x:10295:3386:590:8:1708:1258:126:6:42829:20020:3557:30:464
 298.1:essexstate-e2-p1:x:x:x:x:x:x:trial:1600:1600:x:xxxx:x:xx:x:xxxx:x:xx:x:10295:3386:590:8:1708:1258:126:6:42829:20020:3557:30:464
 298.1:essexstate-e2-p2:x:x:x:x:x:x:trial:1600:1600:x:xxxx:x:xx:x:xxxx:x:xx:x:10295:3386:590:8:1708:1258:126:6:42829:20020:3557:30:464
-299.1:evelyn-e3-h:x:x:x:x:x:x:D:1688:1689:John_Evelyn:1620:m:68:x:xxxx:x:xx:x:19751:7435:1875:163:4233:2969:670:52:86277:43800:10640:555:1356
-299.1:evelyn-e3-p2:x:x:x:x:x:x:D:1688:1689:John_Evelyn:1620:m:68:x:xxxx:x:xx:x:19751:7435:1875:163:4233:2969:670:52:86277:43800:10640:555:1356
-299.1:evelyn-e3-p1:x:x:x:x:x:x:D:1688:1689:John_Evelyn:1620:m:68:x:xxxx:x:xx:x:19751:7435:1875:163:4233:2969:670:52:86277:43800:10640:555:1356
+299.1:evelyn-e3-h:x:x:x:x:x:x:diary:1688:1689:John_Evelyn:1620:m:68:x:xxxx:x:xx:x:19751:7435:1875:163:4233:2969:670:52:86277:43800:10640:555:1356
+299.1:evelyn-e3-p2:x:x:x:x:x:x:diary:1688:1689:John_Evelyn:1620:m:68:x:xxxx:x:xx:x:19751:7435:1875:163:4233:2969:670:52:86277:43800:10640:555:1356
+299.1:evelyn-e3-p1:x:x:x:x:x:x:diary:1688:1689:John_Evelyn:1620:m:68:x:xxxx:x:xx:x:19751:7435:1875:163:4233:2969:670:52:86277:43800:10640:555:1356
 3.1:albin-1736-1:x:x:x:x:x:x:science:1736:1736:Eleazar_Albin:1713:m:23:x:xxxx:x:xx:x:9074:3552:193:4:902:640:38:3:36383:18884:1283:13:626
-30.1:barton-gresswell-1906-2:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1906:1906:Frank Townend_Barton:NA:m:NA:NA:NA:NA:NA:NA:8031:3385:158:67:2178:1634:102:17:37453:21676:917:311:517
+30.1:barton-gresswell-1906-2:x:x:NA:NA:NA:NA:medicine:1906:1906:Frank Townend_Barton:NA:m:NA:NA:NA:NA:NA:NA:8031:3385:158:67:2178:1634:102:17:37453:21676:917:311:517
 300.1:everard-e2-p2:x:x:x:x:x:x:private_letter:1629:1629:Joan_Everard:xxxx:f:xx:Joan_Barrington:xxxx:f:xx:mother:568:201:37:0:257:136:26:0:2278:1070:231:0:42
 300.1:everard-e2-h:x:x:x:x:x:x:private_letter:1629:1629:Joan_Everard:xxxx:f:xx:Joan_Barrington:xxxx:f:xx:mother:568:201:37:0:257:136:26:0:2278:1070:231:0:42
 300.1:everard-e2-p1:x:x:x:x:x:x:private_letter:1629:1629:Joan_Everard:xxxx:f:xx:Joan_Barrington:xxxx:f:xx:mother:568:201:37:0:257:136:26:0:2278:1070:231:0:42
@@ -1935,9 +1935,9 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 317.99:fleming:3562:3585:x:x:x:x:public_letter:1679:1679:Thomas_Dixon:1650:m:29:Daniel_Fleming:1633:m:46:x:532:144:36:3:251:121:32:3:4081:793:229:10:24
 318.1:forman-e2-p2:x:x:x:x:x:x:autobiography:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
 318.1:forman-e2-p1:x:x:x:x:x:x:autobiography:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
-318.1:forman-diary-e2-p1:x:x:x:x:x:x:D:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
-318.1:forman-diary-e2-h:x:x:x:x:x:x:D:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
-318.1:forman-diary-e2-p2:x:x:x:x:x:x:D:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
+318.1:forman-diary-e2-p1:x:x:x:x:x:x:diary:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
+318.1:forman-diary-e2-h:x:x:x:x:x:x:diary:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
+318.1:forman-diary-e2-p2:x:x:x:x:x:x:diary:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
 318.1:forman-e2-h:x:x:x:x:x:x:autobiography:1602:1602:Simon_Forman:1552:m:50:x:xxxx:x:xx:x:12256:4069:1348:109:2506:1620:519:38:47716:20378:7607:388:1021
 319.1:forster-1827-2:x:x:NA:NA:NA:NA:handbook:1825:1825:Thomas Furley_Forster:1761:m:64:NA:NA:NA:NA:NA:0:0:0:0:0:0:0:0:0:0:0:0:0
 32.1:beale-1898-2:x:x:NA:NA:NA:NA:education:1898:1898:Dorothea_Beale:1831:f:67:NA:NA:NA:NA:NA:9407:3649:113:44:2151:1640:75:18:41696:23128:656:173:520
@@ -2323,7 +2323,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 359.9:hatton:131:149:x:x:x:x:public_letter:1653:1653:S._Mewce:_:m:_:Elizabeth_Hatton[n.montagu]:_:f:_:x:268:80:13:0:138:68:11:0:2627:421:65:0:19
 36.1:bell-1911-2:x:x:NA:NA:NA:NA:travelogue:1911:1911:Gertrude_Bell:1868:f:43:NA:NA:NA:NA:NA:10346:3776:418:38:2598:2009:147:22:44325:22413:2799:302:656
 360.1:haydon-1842-2:x:x:NA:NA:NA:NA:diary:1842:1842:Benjamin_Haydon:1786:m:56:NA:NA:NA:NA:NA:21008:8127:1116:56:4079:3099:371:41:86557:46066:6906:256:2012
-360.1:haydon-1808-1:x:x:x:x:x:x:D:1808:1808:Benjamin_Haydon:1786:m:22:x:xxxx:x:xx:x:21008:8127:1116:56:4079:3099:371:41:86557:46066:6906:256:2012
+360.1:haydon-1808-1:x:x:x:x:x:x:diary:1808:1808:Benjamin_Haydon:1786:m:22:x:xxxx:x:xx:x:21008:8127:1116:56:4079:3099:371:41:86557:46066:6906:256:2012
 361.1:hayman-1786:x:x:NA:NA:NA:NA:trial:1786:1786:n/a:NA:NA:NA:NA:NA:NA:NA:NA:0:0:0:0:0:0:0:0:0:0:0:0:0
 362.1:hayward-e2-h:x:x:x:x:x:x:history:1612:1612:John_Hayward:1564:m:48:x:xxxx:x:xx:x:17105:5947:777:2:3706:2738:359:2:78933:38558:5026:7:608
 362.1:hayward-e2-p2:x:x:x:x:x:x:history:1612:1612:John_Hayward:1564:m:48:x:xxxx:x:xx:x:17105:5947:777:2:3706:2738:359:2:78933:38558:5026:7:608
@@ -2353,9 +2353,9 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 368.1:hind-1707-1:x:x:x:x:x:x:history:1707:1707:Thomas_Hind:1683:m:24:x:xxxx:x:xx:x:9180:3010:592:2:1953:1365:197:1:41420:18009:4734:12:294
 369.1:hobson-173x-2:x:x:NA:NA:NA:NA:diary:1732:1732:John_Hobson::m:NA:NA:NA:NA:NA:NA:10253:3564:1934:18:2336:1295:760:11:42585:16974:11675:78:961
 37.1:bennett-1911-2:x:x:NA:NA:NA:NA:comedy:1911:1911:Arnold_Bennett:1867:m:44:NA:NA:NA:NA:NA:9885:3362:826:7:2089:1516:81:6:41650:19586:4377:56:998
-370.1:hoby-e2-p1:x:x:x:x:x:x:D:1600:1600:Margaret_Hoby:1571:f:29:x:xxxx:x:xx:x:19307:8588:1230:5:1697:1126:289:5:76836:44547:6190:19:2467
-370.1:hoby-e2-p2:x:x:x:x:x:x:D:1600:1600:Margaret_Hoby:1571:f:29:x:xxxx:x:xx:x:19307:8588:1230:5:1697:1126:289:5:76836:44547:6190:19:2467
-370.1:hoby-e2-h:x:x:x:x:x:x:D:1600:1600:Margaret_Hoby:1571:f:29:x:xxxx:x:xx:x:19307:8588:1230:5:1697:1126:289:5:76836:44547:6190:19:2467
+370.1:hoby-e2-p1:x:x:x:x:x:x:diary:1600:1600:Margaret_Hoby:1571:f:29:x:xxxx:x:xx:x:19307:8588:1230:5:1697:1126:289:5:76836:44547:6190:19:2467
+370.1:hoby-e2-p2:x:x:x:x:x:x:diary:1600:1600:Margaret_Hoby:1571:f:29:x:xxxx:x:xx:x:19307:8588:1230:5:1697:1126:289:5:76836:44547:6190:19:2467
+370.1:hoby-e2-h:x:x:x:x:x:x:diary:1600:1600:Margaret_Hoby:1571:f:29:x:xxxx:x:xx:x:19307:8588:1230:5:1697:1126:289:5:76836:44547:6190:19:2467
 371.1:hodgkin-1880-2:x:x:NA:NA:NA:NA:history:1880:1880:Thomas_Hodgkin:1831:m:49:NA:NA:NA:NA:NA:9014:3428:171:59:2442:1877:99:41:41132:22354:1148:431:315
 372.1:holcroft-1794-2:x:x:NA:NA:NA:NA:fiction:1794:1794:Thomas_Holcroft:1745:m:49:NA:NA:NA:NA:NA:9861:3338:160:29:2228:1709:44:27:41380:20987:952:161:613
 373.1:holles:1006:1064:x:x:x:x:private_letter:1615:1615:John_Holles_Sr:1565:m:50:John_Holles_Jr:1595:m:20:SON:1257:357:54:31:488:293:42:28:10727:2124:295:134:59
@@ -2552,10 +2552,10 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 379.1:hoxinden-1640-e3-p2:x:x:x:x:x:x:private_letter:1647:1648:Henry_Oxinden:1608:m:39:Kathrine_Oxinden:1620:f:27:wife:11327:3426:635:16:2054:1414:259:5:43720:18882:3571:55:642
 379.1:hoxinden-1660-e3-p1:x:x:x:x:x:x:private_letter:1662:1663:Henry_Oxinden:1608:m:54:Kathriine_Oxinden:1620:f:42:wife:11327:3426:635:16:2054:1414:259:5:43720:18882:3571:55:642
 38.1:benson-1908-1:x:x:x:x:x:x:education:1908:1908:Arthur_Christopher_Benson:1862:m:46:x:xxxx:x:xx:x:19634:7788:435:37:3873:3014:268:20:83437:46682:2598:170:1284
-38.1:benson-190x-1:x:x:x:x:x:x:D:1905:1906:Arthur_Christopher_Benson:1862:m:43:x:xxxx:x:xx:x:19634:7788:435:37:3873:3014:268:20:83437:46682:2598:170:1284
+38.1:benson-190x-1:x:x:x:x:x:x:diary:1905:1906:Arthur_Christopher_Benson:1862:m:43:x:xxxx:x:xx:x:19634:7788:435:37:3873:3014:268:20:83437:46682:2598:170:1284
 380.1:hume-1776-2:x:x:NA:NA:NA:NA:autobiography:1777:1777:David_Hume:1711:m:66:NA:NA:NA:NA:NA:12129:4487:484:5:2713:2053:213:5:56937:30003:3448:22:538
 380.1:hume-1757-2:x:x:NA:NA:NA:NA:history:1757:1757:David_Hume:1711:m:46:NA:NA:NA:NA:NA:12129:4487:484:5:2713:2053:213:5:56937:30003:3448:22:538
-381.1:hunt-1844-2:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1844:1844:Henry_Hunt::m:NA:NA:NA:NA:NA:NA:7979:3033:63:40:1669:1212:31:21:36725:20253:265:275:336
+381.1:hunt-1844-2:x:x:NA:NA:NA:NA:medicine:1844:1844:Henry_Hunt::m:NA:NA:NA:NA:NA:NA:7979:3033:63:40:1669:1212:31:21:36725:20253:265:275:336
 382.1:hutton:1013:1024:x:x:x:x:public_letter:1598:1598:Peregrine_Bertie:1555:m:43:Matthew_Hutton_I:1529:m:69:x:585:170:21:0:261:134:14:0:3441:1065:105:0:12
 382.10:hutton:1212:1232:x:x:x:x:public_letter:1599:1599:John_Whitgift:1530:m:69:Matthew_Hutton_I:1529:m:70:x:408:106:8:3:196:88:8:3:3455:683:44:16:21
 382.11:hutton:1247:1252:x:x:x:x:public_letter:1599:1599:Robert_Cecil:1563:m:36:Matthew_Hutton_I:1529:m:70:x:245:76:12:0:136:62:11:0:1525:498:60:0:6
@@ -2789,7 +2789,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 404.1:kimber-1742-1:x:x:x:x:x:x:history:1742:1742:Isaac_Kimber:1692:m:50:x:xxxx:x:xx:x:9182:3037:670:0:1906:1342:221:0:41305:18884:4656:0:344
 405.1:kinglake-1844-2:x:x:NA:NA:NA:NA:travelogue:1844:1844:Alexander William_Kinglake:1809:m:35:NA:NA:NA:NA:NA:10335:3827:304:15:2616:2029:126:11:45527:23811:1995:100:516
 406.1:kingsley-1897-2:x:x:NA:NA:NA:NA:travelogue:1897:1897:Mary Henrietta_Kingsley:1862:f:35:NA:NA:NA:NA:NA:10447:3982:323:16:2433:1852:123:12:43299:22664:1901:47:653
-407.1:kirkland-1774-2:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1774:1774:Thomas_Kirkland:1722:m:52:NA:NA:NA:NA:NA:8043:3091:13:15:1395:1016:9:8:36497:20158:92:55:359
+407.1:kirkland-1774-2:x:x:NA:NA:NA:NA:medicine:1774:1774:Thomas_Kirkland:1722:m:52:NA:NA:NA:NA:NA:8043:3091:13:15:1395:1016:9:8:36497:20158:92:55:359
 408.1:knox-1786-2:x:x:NA:NA:NA:NA:travelogue:1786:1787:John_Knox:1720:m:66:NA:NA:NA:NA:NA:10332:3949:607:8:2380:1731:240:5:46940:24560:3984:31:473
 409.1:knyveton-1752-actually-gray-1937-2:x:x:NA:NA:NA:NA:diary:1937:1937:John_Knyveton:1729:m:22:NA:NA:NA:NA:NA:10193:3706:276:3:2475:1895:78:2:41926:20358:1568:20:513
 41.1:bodysoul:x:x:51.164533:-0.961304:Winchester:S:Q:1130:1180:x:xxxx:x:xx:x:xxxx:x:xx:x:0:0:0:0:0:0:0:0:0:0:0:0:0
@@ -3007,13 +3007,13 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 435.1:macaulay-1849-2:x:x:NA:NA:NA:NA:history:1849:1857:baron Macaulay_Thomas Babington Macaulay:1800:m:49:NA:NA:NA:NA:NA:28243:10372:1398:18:5311:4113:534:16:130184:68304:9093:108:1508
 435.1:macaulay-1833-2:x:x:NA:NA:NA:NA:history:1833:1833:baron Macaulay_Thomas Babington Macaulay:1800:m:33:NA:NA:NA:NA:NA:28243:10372:1398:18:5311:4113:534:16:130184:68304:9093:108:1508
 435.1:macaulay-1843-2:x:x:NA:NA:NA:NA:history:1843:1843:baron Macaulay_Thomas Babington Macaulay:1800:m:43:NA:NA:NA:NA:NA:28243:10372:1398:18:5311:4113:534:16:130184:68304:9093:108:1508
-436.1:machyn-e1-p2:x:x:x:x:x:x:D:1536:1539:Henry_Machyn:1498:m:38:x:xxxx:x:xx:x:21747:7649:2666:33:3645:2198:982:20:93438:40573:17240:152:1330
-436.1:machyn-e1-p1:x:x:x:x:x:x:D:1536:1539:Henry_Machyn:1498:m:38:x:xxxx:x:xx:x:21747:7649:2666:33:3645:2198:982:20:93438:40573:17240:152:1330
-436.1:machyn-e1-h:x:x:x:x:x:x:D:1536:1539:Henry_Machyn:1498:m:38:x:xxxx:x:xx:x:21747:7649:2666:33:3645:2198:982:20:93438:40573:17240:152:1330
+436.1:machyn-e1-p2:x:x:x:x:x:x:diary:1536:1539:Henry_Machyn:1498:m:38:x:xxxx:x:xx:x:21747:7649:2666:33:3645:2198:982:20:93438:40573:17240:152:1330
+436.1:machyn-e1-p1:x:x:x:x:x:x:diary:1536:1539:Henry_Machyn:1498:m:38:x:xxxx:x:xx:x:21747:7649:2666:33:3645:2198:982:20:93438:40573:17240:152:1330
+436.1:machyn-e1-h:x:x:x:x:x:x:diary:1536:1539:Henry_Machyn:1498:m:38:x:xxxx:x:xx:x:21747:7649:2666:33:3645:2198:982:20:93438:40573:17240:152:1330
 437.1:macquarie-1815-2:x:x:NA:NA:NA:NA:travelogue:1815:1815:Lachlan_Macquarie:1762:m:53:NA:NA:NA:NA:NA:10284:3995:920:65:1579:1098:195:11:43402:21451:5136:138:517
-438.1:madox-e2-p1:x:x:x:x:x:x:D:1582:1582:Richard_Madox:1546:m:36:x:xxxx:x:xx:x:20998:7234:1911:93:4175:2792:816:69:82209:36809:10509:481:1414
-438.1:madox-e2-h:x:x:x:x:x:x:D:1582:1582:Richard_Madox:1546:m:36:x:xxxx:x:xx:x:20998:7234:1911:93:4175:2792:816:69:82209:36809:10509:481:1414
-438.1:madox-e2-p2:x:x:x:x:x:x:D:1582:1582:Richard_Madox:1546:m:36:x:xxxx:x:xx:x:20998:7234:1911:93:4175:2792:816:69:82209:36809:10509:481:1414
+438.1:madox-e2-p1:x:x:x:x:x:x:diary:1582:1582:Richard_Madox:1546:m:36:x:xxxx:x:xx:x:20998:7234:1911:93:4175:2792:816:69:82209:36809:10509:481:1414
+438.1:madox-e2-h:x:x:x:x:x:x:diary:1582:1582:Richard_Madox:1546:m:36:x:xxxx:x:xx:x:20998:7234:1911:93:4175:2792:816:69:82209:36809:10509:481:1414
+438.1:madox-e2-p2:x:x:x:x:x:x:diary:1582:1582:Richard_Madox:1546:m:36:x:xxxx:x:xx:x:20998:7234:1911:93:4175:2792:816:69:82209:36809:10509:481:1414
 439.1:manners-e1-p1:x:x:x:x:x:x:private_letter:1535:1535:Eleanor_Manners:1496:f:39:Honor_Lisle:1493:f:42:dist_eql:301:93:12:0:155:71:12:0:1223:533:78:0:10
 439.1:manners-e1-h:x:x:x:x:x:x:private_letter:1535:1535:Eleanor_Manners:1496:f:39:Honor_Lisle:1493:f:42:dist_eql:301:93:12:0:155:71:12:0:1223:533:78:0:10
 439.1:manners-e1-p2:x:x:x:x:x:x:private_letter:1535:1535:Eleanor_Manners:1496:f:39:Honor_Lisle:1493:f:42:dist_eql:301:93:12:0:155:71:12:0:1223:533:78:0:10
@@ -3182,8 +3182,8 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 468.1:morewol-e1-p2:x:x:x:x:x:x:public_letter:1523:1524:Thomas_More:1477:m:46:Thomas_Wolsey:1473:m:50:dist_eql:4586:1661:173:0:1022:697:85:0:19658:9796:1057:0:108
 468.1:morewol-e1-h:x:x:x:x:x:x:public_letter:1523:1524:Thomas_More:1477:m:46:Thomas_Wolsey:1473:m:50:dist_eql:4586:1661:173:0:1022:697:85:0:19658:9796:1057:0:108
 468.1:morewol-e1-p1:x:x:x:x:x:x:public_letter:1523:1524:Thomas_More:1477:m:46:Thomas_Wolsey:1473:m:50:dist_eql:4586:1661:173:0:1022:697:85:0:19658:9796:1057:0:108
-469.1:morris-172x-2:x:x:x:x:x:x:D:1724:1724:Claver_Morris:1659:m:65:x:x:x:x:x:10629:3491:1411:4:2381:1542:542:4:42266:18456:8238:20:690
-47.1:boswell-1776-1:x:x:x:x:x:x:D:1776:1776:James_Boswell:1740:m:36:x:xxxx:x:xx:x:49617:16890:3488:291:6675:4778:986:222:212812:102225:22287:1491:3299
+469.1:morris-172x-2:x:x:x:x:x:x:diary:1724:1724:Claver_Morris:1659:m:65:x:x:x:x:x:10629:3491:1411:4:2381:1542:542:4:42266:18456:8238:20:690
+47.1:boswell-1776-1:x:x:x:x:x:x:diary:1776:1776:James_Boswell:1740:m:36:x:xxxx:x:xx:x:49617:16890:3488:291:6675:4778:986:222:212812:102225:22287:1491:3299
 47.1:boswell-1791-2:x:x:NA:NA:NA:NA:biography:1791:1791:James_Boswell:1740:m:51:NA:NA:NA:NA:NA:49617:16890:3488:291:6675:4778:986:222:212812:102225:22287:1491:3299
 47.1:boswell-1783-2:x:x:NA:NA:NA:NA:diary:1783:1783:James_Boswell:1740:m:43:NA:NA:NA:NA:NA:49617:16890:3488:291:6675:4778:986:222:212812:102225:22287:1491:3299
 47.1:boswell-1768-2:x:x:NA:NA:NA:NA:history:1768:1768:James_Boswell:1740:m:28:NA:NA:NA:NA:NA:49617:16890:3488:291:6675:4778:986:222:212812:102225:22287:1491:3299
@@ -4447,9 +4447,9 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 502.78:pepys:950:956:x:x:x:x:private_letter:1679:1679:Samuel_Pepys:1633:m:46:Balthasar_St._Michel:_:m:_:BROTHER_IN_LAW:218:53:16:0:125:50:14:0:1589:287:71:0:7
 502.79:pepys:970:983:x:x:x:x:private_letter:1679:1679:Samuel_Pepys:1633:m:46:Balthasar_St._Michel:_:m:_:BROTHER_IN_LAW:777:191:69:2:325:162:38:2:4702:1168:367:4:14
 502.8:pepys:1239:1245:x:x:x:x:private_letter:1679:1679:Samuel_Pepys:1633:m:46:John_Pepys_Sr:1601:m:78:FATHER:431:126:11:0:208:114:7:0:2307:767:51:0:7
-502.80:pepys-e3-p1:x:x:x:x:x:x:D:1666:1667:Samuel_Pepys:1633:m:33:x:xxxx:x:xx:x:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
-502.80:pepys-e3-p2:x:x:x:x:x:x:D:1666:1667:Samuel_Pepys:1633:m:33:x:xxxx:x:xx:x:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
-502.80:pepys-e3-h:x:x:x:x:x:x:D:1666:1667:Samuel_Pepys:1633:m:33:x:xxxx:x:xx:x:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
+502.80:pepys-e3-p1:x:x:x:x:x:x:diary:1666:1667:Samuel_Pepys:1633:m:33:x:xxxx:x:xx:x:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
+502.80:pepys-e3-p2:x:x:x:x:x:x:diary:1666:1667:Samuel_Pepys:1633:m:33:x:xxxx:x:xx:x:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
+502.80:pepys-e3-h:x:x:x:x:x:x:diary:1666:1667:Samuel_Pepys:1633:m:33:x:xxxx:x:xx:x:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
 502.80:pepys:996:1010:x:x:x:x:private_letter:1679:1679:Samuel_Pepys:1633:m:46:Balthasar_St._Michel:_:m:_:BROTHER_IN_LAW:17293:5809:924:88:2513:1723:365:54:68384:30063:5292:357:1038
 502.9:pepys:1258:1275:x:x:x:x:private_letter:1679:1679:Samuel_Pepys:1633:m:46:Balthasar_St._Michel:_:m:_:BROTHER_IN_LAW:929:240:29:2:348:190:21:2:5578:1458:145:8:18
 503.1:perrott-e2-p2:x:x:x:x:x:x:biography:1596:1603:x:xxxx:x:xx:x:xxxx:x:xx:x:15756:5328:780:39:2922:2194:203:38:68413:32450:4611:209:456
@@ -4725,9 +4725,9 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 530.1:rich-e2-h:x:x:x:x:x:x:public_letter:1624:1624:Henry_Rich:1590:m:34:George_Villers:1592:m:32:dist_eql:1738:597:21:71:642:418:17:54:7373:3814:123:314:64
 530.1:rich-e2-p2:x:x:x:x:x:x:public_letter:1624:1624:Henry_Rich:1590:m:34:George_Villers:1592:m:32:dist_eql:1738:597:21:71:642:418:17:54:7373:3814:123:314:64
 530.1:rich-e2-p1:x:x:x:x:x:x:public_letter:1624:1624:Henry_Rich:1590:m:34:George_Villers:1592:m:32:dist_eql:1738:597:21:71:642:418:17:54:7373:3814:123:314:64
-531.1:richardson-1858-2:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1858:1858:Benjamin Ward_Richardson:1828:m:30:NA:NA:NA:NA:NA:8001:3125:222:35:1741:1261:96:15:37876:21266:1356:169:280
+531.1:richardson-1858-2:x:x:NA:NA:NA:NA:medicine:1858:1858:Benjamin Ward_Richardson:1828:m:30:NA:NA:NA:NA:NA:8001:3125:222:35:1741:1261:96:15:37876:21266:1356:169:280
 532.1:roberts-1726-2:x:x:NA:NA:NA:NA:travelogue:1726:1726:George_Roberts:NA:m:NA:NA:NA:NA:NA:NA:10618:3745:393:42:2038:1540:122:23:43641:21267:2028:208:390
-533.1:robertson-1792-2:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1792:1792:Robert_Robertson:1742:m:50:NA:NA:NA:NA:NA:7989:3340:77:457:1019:719:39:87:34077:19501:407:1682:637
+533.1:robertson-1792-2:x:x:NA:NA:NA:NA:medicine:1792:1792:Robert_Robertson:1742:m:50:NA:NA:NA:NA:NA:7989:3340:77:457:1019:719:39:87:34077:19501:407:1682:637
 534.1:roper-e1-h:x:x:x:x:x:x:biography:1555:1555:William_Roper:1496:m:59:x:xxxx:x:xx:x:17535:6146:751:68:3352:2464:218:57:76203:38073:4228:364:384
 534.1:roper-e1-p2:x:x:x:x:x:x:biography:1555:1555:William_Roper:1496:m:59:x:xxxx:x:xx:x:17535:6146:751:68:3352:2464:218:57:76203:38073:4228:364:384
 534.1:roper-e1-p1:x:x:x:x:x:x:biography:1555:1555:William_Roper:1496:m:59:x:xxxx:x:xx:x:17535:6146:751:68:3352:2464:218:57:76203:38073:4228:364:384
@@ -4802,18 +4802,18 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 540.1:rplumpt2-e1-p1:x:x:x:x:x:x:private_letter:1502:1503:Robert_Plumton_2:1440:m:62:Robert_Plumpton_Sr:1453:m:49:brother:919:281:82:2:352:186:50:2:3749:1608:474:14:49
 540.1:rplumpt2-e1-h:x:x:x:x:x:x:private_letter:1502:1503:Robert_Plumton_2:1440:m:62:Robert_Plumpton_Sr:1453:m:49:brother:919:281:82:2:352:186:50:2:3749:1608:474:14:49
 540.1:rplumpt2-e1-p2:x:x:x:x:x:x:private_letter:1502:1503:Robert_Plumton_2:1440:m:62:Robert_Plumpton_Sr:1453:m:49:brother:919:281:82:2:352:186:50:2:3749:1608:474:14:49
-541.1:ruskin-1835-1:x:x:x:x:x:x:D:1835:1835:John_Ruskin:1819:m:16:x:xxxx:x:xx:x:20330:8331:1314:61:3679:2658:404:47:89528:47152:7895:327:1560
+541.1:ruskin-1835-1:x:x:x:x:x:x:diary:1835:1835:John_Ruskin:1819:m:16:x:xxxx:x:xx:x:20330:8331:1314:61:3679:2658:404:47:89528:47152:7895:327:1560
 541.1:ruskin-1882-2:x:x:NA:NA:NA:NA:diary:1882:1882:John_Ruskin:1819:m:63:NA:NA:NA:NA:NA:20330:8331:1314:61:3679:2658:404:47:89528:47152:7895:327:1560
 542.1:russell-e1-p1:x:x:x:x:x:x:public_letter:1538:1538:John_Russel:1485:m:53:Thomas_Cromwell:1485:m:53:dist_eql:387:125:19:0:192:94:16:0:1735:757:142:0:11
 542.1:russell-e1-p2:x:x:x:x:x:x:public_letter:1538:1538:John_Russel:1485:m:53:Thomas_Cromwell:1485:m:53:dist_eql:387:125:19:0:192:94:16:0:1735:757:142:0:11
 542.1:russell-e1-h:x:x:x:x:x:x:public_letter:1538:1538:John_Russel:1485:m:53:Thomas_Cromwell:1485:m:53:dist_eql:387:125:19:0:192:94:16:0:1735:757:142:0:11
 543.1:rutland:107:111:x:x:x:x:public_letter:1503:1503:Henry_Tudor_Vii:1457:m:46:Henry_Vernon:1445:m:58:x:339:94:9:0:165:78:6:0:1893:627:60:0:5
-543.2:rutland:15:30:x:x:x:x:x:private_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445?:m:47?:172:54:4:0:104:51:4:0:908:341:19:0:2
+543.2:rutland:15:30:x:x:x:x:private_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445?:m:47?:172:54:4:0:104:51:4:0:908:341:19:0:2
 543.3:rutland:31:34:x:x:x:x:public_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445:m:47:x:287:92:6:1:157:82:6:1:1602:630:46:8:4
 543.4:rutland:49:51:x:x:x:x:public_letter:1492:1492:Henry_Tudor_Vii:1457:m:35:Henry_Vernon:1445:m:47:x:110:34:2:0:71:32:2:0:675:201:14:0:3
 543.5:rutland:66:73:x:x:x:x:public_letter:1490:1490:Anne_Vernon:_:f:_:William_Rollasley:_:m:_:x:190:45:14:0:102:39:13:0:1330:250:83:0:8
 543.6:rutland:87:92:x:x:x:x:public_letter:1494:1494:Henry_Tudor_Vii:1457:m:37:Henry_Vernon:1445:m:49:x:154:53:2:0:89:50:2:0:1138:332:9:0:6
-544.1:ryder-1716-1:x:x:x:x:x:x:D:1716:1716:Dudley_Ryder:1691:m:25:x:xxxx:x:xx:x:10332:3384:709:15:1970:1407:234:11:42686:19203:4255:69:681
+544.1:ryder-1716-1:x:x:x:x:x:x:diary:1716:1716:Dudley_Ryder:1691:m:25:x:xxxx:x:xx:x:10332:3384:709:15:1970:1407:234:11:42686:19203:4255:69:681
 545.1:salmon-1724-2:x:x:NA:NA:NA:NA:history:1724:1724:Thomas_Salmon:1679:m:45:NA:NA:NA:NA:NA:9204:3110:633:9:2096:1518:195:5:41536:19673:4093:31:323
 546.1:savill-e1-h:x:x:x:x:x:x:private_letter:1545:1546:Henry_Savill:1485:m:60:William_Plumpton:1485:m:60:cousin:1800:590:108:3:593:378:61:1:6643:2905:723:12:135
 546.1:savill-e1-p2:x:x:x:x:x:x:private_letter:1545:1546:Henry_Savill:1485:m:60:William_Plumpton:1485:m:60:cousin:1800:590:108:3:593:378:61:1:6643:2905:723:12:135
@@ -5371,8 +5371,8 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 585.1:thoward2-e2-p1:x:x:x:x:x:x:trial:1571:1571:x:xxxx:x:xx:x:xxxx:x:xx:x:34274:11474:1193:89:3074:2335:200:60:143362:68250:7895:482:1811
 585.1:thoward2-e2-p2:x:x:x:x:x:x:trial:1571:1571:x:xxxx:x:xx:x:xxxx:x:xx:x:34274:11474:1193:89:3074:2335:200:60:143362:68250:7895:482:1811
 585.1:thoward2-e2-h:x:x:x:x:x:x:trial:1571:1571:x:xxxx:x:xx:x:xxxx:x:xx:x:34274:11474:1193:89:3074:2335:200:60:143362:68250:7895:482:1811
-586.1:thring-187X-1:x:x:x:x:x:x:D:1871:1872:Edward_Thring:1821:m:50:x:xxxx:x:xx:x:19878:7605:419:20:3584:2807:179:14:83674:45163:2332:89:1262
-586.1:thring-187x-1:x:x:x:x:x:x:D:1871:1871:Edward_Thring:1821:m:50:x:x:x:x:x:19878:7605:419:20:3584:2807:179:14:83674:45163:2332:89:1262
+586.1:thring-187X-1:x:x:x:x:x:x:diary:1871:1872:Edward_Thring:1821:m:50:x:xxxx:x:xx:x:19878:7605:419:20:3584:2807:179:14:83674:45163:2332:89:1262
+586.1:thring-187x-1:x:x:x:x:x:x:diary:1871:1871:Edward_Thring:1821:m:50:x:x:x:x:x:19878:7605:419:20:3584:2807:179:14:83674:45163:2332:89:1262
 586.1:thring-1883-2:x:x:NA:NA:NA:NA:education:1883:1883:Edward_Thring:1821:m:62:NA:NA:NA:NA:NA:19878:7605:419:20:3584:2807:179:14:83674:45163:2332:89:1262
 587.1:throckm-e1-h:x:x:x:x:x:x:trial:1554:1554:x:xxxx:x:xx:x:xxxx:x:xx:x:16742:5412:1015:31:2616:1918:215:14:73249:33603:7115:120:792
 587.1:throckm-e1-p1:x:x:x:x:x:x:trial:1554:1554:x:xxxx:x:xx:x:xxxx:x:xx:x:16742:5412:1015:31:2616:1918:215:14:73249:33603:7115:120:792
@@ -5452,7 +5452,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 6.3:allen:228:231:x:x:x:x:public_letter:1593:1593:William_Allen:1532:m:61:John_Arden:_:m:_:x:132:40:4:1:86:39:4:1:787:214:17:9:4
 6.4:allen:80:198:x:x:x:x:public_letter:1579:1579:William_Allen:1532:m:47:Owen_Lewis:_:m:_:x:4060:1200:129:108:1105:719:63:91:25052:7136:652:621:117
 60.1:brougham2-1825-2:x:x:NA:NA:NA:NA:education:1825:1825:Henry_Brougham:1778:m:47:NA:NA:NA:NA:NA:9570:3642:83:1:2091:1604:55:1:44038:24252:543:3:365
-600.1:turner3-1722-2:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1722:1722:Daniel_Turner:1667:m:55:NA:NA:NA:NA:NA:8153:2772:42:431:2109:1386:40:270:36448:17719:287:2323:173
+600.1:turner3-1722-2:x:x:NA:NA:NA:NA:medicine:1722:1722:Daniel_Turner:1667:m:55:NA:NA:NA:NA:NA:8153:2772:42:431:2109:1386:40:270:36448:17719:287:2323:173
 601.1:turnerherb-e1-p1:x:x:x:x:x:x:handbook:1592:1592:William_Turner:1508:m:84:x:xxxx:x:xx:x:783:269:11:20:320:192:10:18:3155:1536:71:97:43
 601.1:turnerherb-e1-p2:x:x:x:x:x:x:handbook:1592:1592:William_Turner:1508:m:84:x:xxxx:x:xx:x:783:269:11:20:320:192:10:18:3155:1536:71:97:43
 601.1:turnerherb-e1-h:x:x:x:x:x:x:handbook:1592:1592:William_Turner:1508:m:84:x:xxxx:x:xx:x:783:269:11:20:320:192:10:18:3155:1536:71:97:43
@@ -5684,7 +5684,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 620.6:wesa:46:65:x:x:x:x:public_letter:1632:1632:Thomas_Wentworth:1593:m:39:James_Hay:1580:m:52:x:362:102:6:2:177:89:6:2:2962:579:44:11:20
 620.7:wesa:78:108:x:x:x:x:public_letter:1633:1633:Thomas_Wentworth:1593:m:40:James_Hay:1580:m:53:x:874:257:17:4:363:211:15:3:5959:1568:115:17:31
 621.1:wesley-1755-2:x:x:NA:NA:NA:NA:sermon:1755:1755:John_Wesley:1703:m:52:NA:NA:NA:NA:NA:19542:6637:836:29:3337:2447:284:23:80827:38759:4720:194:1215
-621.1:wesley-174x-1:x:x:x:x:x:x:D:1744:1745:John_Wesley:1703:m:41:x:xxxx:x:xx:x:19542:6637:836:29:3337:2447:284:23:80827:38759:4720:194:1215
+621.1:wesley-174x-1:x:x:x:x:x:x:diary:1744:1745:John_Wesley:1703:m:41:x:xxxx:x:xx:x:19542:6637:836:29:3337:2447:284:23:80827:38759:4720:194:1215
 621.1:wesley-1750-2:x:x:NA:NA:NA:NA:sermon:1750:1750:John_Wesley:1703:m:47:NA:NA:NA:NA:NA:19542:6637:836:29:3337:2447:284:23:80827:38759:4720:194:1215
 622.1:wharton:0:70:x:x:x:x:public_letter:1642:1642:Nehemiah_Wharton:_:m:_:George_Willingham:_:m:_:x:0:0:0:0:0:0:0:0:0:0:0:0:0
 622.2:wharton:15:83:x:x:x:x:private_letter:1642:1642:Nehemiah_Wharton:_:m:_:George_Willingham:_:m:_:0:1049:323:75:0:400:235:55:0:9106:2018:509:0:56
@@ -5734,7 +5734,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 628.7:willoug:220:224:x:x:x:x:private_letter:1529:1529:Edward_Willoughby:_:m:_:John_Willoughby:_:m:_:BROTHER:230:66:13:0:119:46:11:0:1460:389:85:0:5
 628.8:willoug:239:249:x:x:x:x:private_letter:1530:1530:Edward_Willoughby:_:m:_:John_Willoughby:_:m:_:BROTHER:241:70:12:0:124:53:10:0:1945:355:73:0:10
 628.9:willoug:263:275:x:x:x:x:private_letter:1532:1532:Edward_Willoughby:_:m:_:John_Willoughby:_:m:_:BROTHER:382:94:39:1:179:73:27:1:2846:566:239:6:13
-629.1:winslow-1868:x:x:NA:NA:NA:NA:SCIENCE_MEDICINE:1868:1868:Forbes_Winslow:1810:m:58:NA:NA:NA:NA:NA:0:0:0:0:0:0:0:0:0:0:0:0:0
+629.1:winslow-1868:x:x:NA:NA:NA:NA:medicine:1868:1868:Forbes_Winslow:1810:m:58:NA:NA:NA:NA:NA:0:0:0:0:0:0:0:0:0:0:0:0:0
 63.1:brysket:106:119:x:x:x:x:public_letter:1581:1581:Lodowick_Bryskett:1545:m:36:William_Cecil:1520:m:61:x:952:298:30:2:369:220:16:2:5183:1915:150:17:14
 63.10:brysket:54:94:x:x:x:x:public_letter:1581:1581:Lodowick_Bryskett:1545:m:36:Francis_Walsingham:1530:m:51:x:2391:810:56:11:846:546:50:10:14186:5083:355:50:41
 63.2:brysket:13:53:x:x:x:x:private_letter:1581:1581:Lodowick_Bryskett:1545?:m:36?:Francis_Walsingham:1530?:m:51?:1194:1194:397:14:0:452:282:11:0:7745:2431:79:0:30
@@ -5820,7 +5820,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 71.1:carlyle-1837-1:x:x:x:x:x:x:history:1837:1837:Thomas_Carlyle:1795:m:42:x:xxxx:x:xx:x:28766:10967:1198:196:5678:4372:453:120:126378:65692:8217:1407:1746
 72.1:cecil:100:110:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:266:76:18:0:153:73:13:0:2086:493:86:0:11
 72.2:cecil:124:136:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:259:72:18:4:137:64:16:4:2059:404:115:20:12
-72.3:cecil:15:43:x:x:x:x:x:private_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:373:111:19:8:204:97:17:8:2808:681:117:42:14
+72.3:cecil:15:43:x:x:x:x:private_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:373:111:19:8:204:97:17:8:2808:681:117:42:14
 72.4:cecil:151:159:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:195:44:18:0:106:42:18:0:1508:234:125:0:9
 72.5:cecil:44:60:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:515:150:10:0:222:120:10:0:3473:897:70:0:16
 72.6:cecil:74:86:x:x:x:x:public_letter:1586:1586:William_Cecil:1520:m:66:Christopher_Hatton_I:1540:m:46:x:335:109:5:0:165:92:5:0:2534:709:30:0:13

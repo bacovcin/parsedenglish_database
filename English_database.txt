@@ -27,7 +27,6 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 118.1:cmkentse-m2:x:x:51.261915:0.799255:x:K:sermon:1275:1275:x:xxxx:m:xx:x:xxxx:x:xx:x:3678:1207:158:164:996:609:53:110:14915:6724:891:876:215
 119.1:cmlamb1-m1:x:x:52.229482:-2.790527:Herefordshire/Shropshire:WM:homily:1200:1225:x:xxxx:m:xx:x:xxxx:x:xx:x:6739:2055:250:1027:2073:1071:96:591:29493:11534:1391:5487:506
 12.1:anon2-1732-2:x:x:NA:NA:NA:NA:education:1732:1732:Anonymous author of 'The index-writer':NA:NA:NA:NA:NA:NA:NA:NA:7574:2717:37:30:1713:1249:26:30:33878:17917:256:203:164
-120.1:cmlambx1-mx1:x:x:52.355474:-2.780914:Herefordshire/Shropshire:WM:homily:1050:1225:x:xxxx:m:xx:x:xxxx:x:xx:x:21683:7219:960:1238:4767:3129:211:759:94172:41950:5569:6847:1380
 121.1:cmmalory-m4:x:x:52.263955:-1.468048:Warwickshire:WM:fiction:1470:1470:Thomas_Malory:1405:m:65:x:xxxx:x:xx:x:59618:21144:4141:1:5092:3792:523:1:239691:112153:23499:8:4903
 122.1:cmmandev-m3:x:x:52.596375:0.285645:South:EM:travelogue:1400:1425:x:xxxx:m:xx:x:xxxx:x:xx:x:53789:17597:2974:490:5962:3930:1093:353:212601:96313:17931:2675:3254
 123.1:cmmarga-m1:x:x:52.46:-2.7:Herefordshire/Shropshire:WM:biography:1205:1225:x:xxxx:m:xx:x:xxxx:x:xx:x:8873:3380:287:8:2346:1781:93:6:36132:19302:1811:45:618

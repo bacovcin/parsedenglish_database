@@ -3343,7 +3343,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 488.37:origin3:848:871:x:x:x:x:public_letter:1645:1645:Oliver_Cromwell:1599:m:46:William_Lenthall:_:m:_:x:420:124:15:0:193:104:10:0:3666:736:92:0:24
 488.38:origin3:884:889:x:x:x:x:public_letter:1645:1645:Charles_Stuart_I:1600:m:45:Edward_Somerset:_:m:_:x:155:45:7:0:93:41:7:0:1141:278:39:0:6
 488.39:origin3:902:913:x:x:x:x:private_letter:1645:1645:Charles_Stuart_I:1600:m:45:Prince_Maurice:1621:m:24:NEPHEW:324:94:8:0:168:85:7:0:2523:561:41:0:12
-488.4:origin3:14:42:x:x:x:x:private_letter:1580S?:1580S?:William_Fleetwood_1:1535:m:_:William_Cecil:1520:m:_:0:302:111:7:0:144:79:6:0:2715:690:42:0:16
+488.4:origin3:14:42:x:x:x:x:private_letter:1580:1580:William_Fleetwood_1:1535:m:_:William_Cecil:1520:m:_:0:302:111:7:0:144:79:6:0:2715:690:42:0:16
 488.40:origin3:927:946:x:x:x:x:public_letter:1647:1647:Oliver_Cromwell:1599:m:48:Thomas_Fairfax:1612:m:35:x:376:100:13:0:177:93:11:0:3192:638:67:0:20
 488.41:origin3:959:968:x:x:x:x:private_letter:1648:1648:Charles_Stuart_I:1600:m:48:Charles_Stuart_Ii:1630:m:18:SON:201:46:8:0:102:43:7:0:1818:279:43:0:10
 488.42:origin3:981:990:x:x:x:x:private_letter:1648:1648:Charles_Stuart_I:1600:m:48:Charles_Stuart_Ii:1630:m:18:SON:155:44:10:0:91:42:9:0:1539:247:56:0:9
@@ -4864,7 +4864,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 552.26:signet:1461:1464:x:x:x:x:public_letter:1420:1420:Henry_V_Signet[shiryngton]:_:m:_:Thomas_Langley:1360:m:60:x:108:32:8:0:72:31:7:0:806:184:48:0:4
 552.27:signet:1479:1483:x:x:x:x:public_letter:1420:1420:Henry_V_Signet[toly]:_:m:_:Thomas_Langley:1360:m:60:x:165:43:11:0:98:36:8:0:1110:282:56:0:5
 552.28:signet:1498:1502:x:x:x:x:public_letter:1420:1420:Henry_V_Signet[toly]:_:m:_:Thomas_Langley:1360:m:60:x:114:32:9:0:67:29:8:0:885:194:55:0:5
-552.29:signet:15:38:x:x:x:x:private_letter:1410S?:1410S?:Henry_V_Signet?[hamond_Ex]:_:m:_:Privy_Council:_:m:_:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+552.29:signet:15:38:x:x:x:x:private_letter:1410:1410:Henry_V_Signet?[hamond_Ex]:_:m:_:Privy_Council:_:m:_:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 552.3:signet:1023:1033:x:x:x:x:public_letter:1419:1419:Henry_V_Signet[shiryngton]:_:m:_:Thomas_Langley:1360:m:59:x:341:99:17:0:154:77:12:0:2336:592:106:0:11
 552.30:signet:150:156:x:x:x:x:public_letter:1417:1417:Henry_V_Signet[toly]:_:m:_:Thomas_Langley:1360:m:57:x:119:32:10:0:72:31:10:0:1052:183:63:0:7
 552.31:signet:1517:1522:x:x:x:x:public_letter:1420:1420:Henry_V_Signet[toly]:_:m:_:Thomas_Langley:1360:m:60:x:249:70:14:0:121:56:11:0:1518:437:96:0:6
@@ -5728,7 +5728,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 628.32:willoug:725:728:x:x:x:x:public_letter:1530:1530:Edward_Willoughby:_:m:_:Thomas_Darby:_:m:_:x:317:86:16:7:167:72:11:7:1680:562:106:28:4
 628.33:willoug:742:782:x:x:x:x:public_letter:1530:1530:Thomas_Darby:_:m:_:Edward_Willoughby:_:m:_:x:2346:689:50:0:645:423:22:0:12381:4062:297:0:40
 628.34:willoug:83:94:x:x:x:x:private_letter:1532:1532:Robert_Willoughby_2:_:m:_:Dorothy_Willoughby:_:f:_:FUTURE_WIFE:279:66:20:0:138:59:14:0:2518:376:126:0:12
-628.4:willoug:16:39:x:x:x:x:private_letter:1520S?:1520S?:Jane_Zouche:_:f:_:Edward_Willoughby:_:m:_:269:269:76:11:0:136:63:11:0:1975:414:63:0:11
+628.4:willoug:16:39:x:x:x:x:private_letter:1520:1520:Jane_Zouche:_:f:_:Edward_Willoughby:_:m:_:269:269:76:11:0:136:63:11:0:1975:414:63:0:11
 628.5:willoug:178:181:x:x:x:x:public_letter:1530:1530:John_Of_Tewkesbury:_:m:_:Edward_Willoughby:_:m:_:x:159:44:9:0:92:39:9:0:1006:281:65:0:4
 628.6:willoug:195:206:x:x:x:x:private_letter:1530:1530:Anthony_Fitzherbert:1470:m:60:Roland_Babyngton:_:m:_:NEPHEW:262:74:12:0:137:68:11:0:2350:439:80:0:12
 628.7:willoug:220:224:x:x:x:x:private_letter:1529:1529:Edward_Willoughby:_:m:_:John_Willoughby:_:m:_:BROTHER:230:66:13:0:119:46:11:0:1460:389:85:0:5

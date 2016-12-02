@@ -3304,7 +3304,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 487.31:origin2:865:927:x:x:x:x:public_letter:1583:1583:William_Fleetwood_1:1535:m:48:William_Cecil:1520:m:63:x:1180:365:52:1:438:273:32:1:10231:2069:301:2:63
 487.32:origin2:89:105:x:x:x:x:public_letter:1520:1520:Thomas_Wolsey:1473:m:_:Stephen_Gardener:1497:m:_:x:1027:336:29:17:414:250:19:16:5690:1995:164:88:17
 487.33:origin2:941:1020:x:x:x:x:public_letter:1585:1585:William_Fleetwood_1:1535:m:50:William_Cecil:1520:m:65:x:1597:460:81:26:590:350:55:18:13278:2726:556:91:77
-487.4:origin2:14:37:x:x:x:x:private_letter:1520S:1520S:Thomas_Wolsey:1473?:m:_:Thomas_Cromwell:1485?:m:_:0:264:79:9:3:147:68:9:3:1958:436:53:12:11
+487.4:origin2:14:37:x:x:x:x:private_letter:1520:1520:Thomas_Wolsey:1473?:m:_:Thomas_Cromwell:1485?:m:_:0:264:79:9:3:147:68:9:3:1958:436:53:12:11
 487.5:origin2:196:201:x:x:x:x:public_letter:1535:1535:Anne_Boleyn:1501:f:34:Thomas_Cromwell:1485:m:50:x:223:76:12:0:134:70:12:0:1514:504:82:0:6
 487.6:origin2:214:220:x:x:x:x:public_letter:1530:1530:Jane_Rocheford:_:f:_:Thomas_Cromwell:1485:m:_:x:298:90:7:0:145:73:4:0:1773:542:34:0:7
 487.7:origin2:233:238:x:x:x:x:public_letter:1537:1537:Jane_Messyndyne_&:_:f:_:Name_Unknown_6:_:m:_:x:319:101:10:0:160:78:6:0:1881:673:56:0:6
@@ -4785,7 +4785,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 54.17:brereto:517:520:x:x:x:x:public_letter:1531:1531:William_Brereton:1490:m:41:William_Fitzwilliam_2:1506:m:25:x:290:82:25:2:135:59:14:2:1592:483:160:7:4
 54.18:brereto:534:597:x:x:x:x:private_letter:1530:1530:Gilbert_Godbehere:_:m:_:William_Brereton:1490:m:_:x:2055:546:77:1:529:312:47:1:13633:3033:502:2:64
 54.19:brereto:611:615:x:x:x:x:public_letter:1530:1530:John_Tuchett:1483:m:_:William_Brereton:1490:m:_:x:310:90:23:1:165:74:21:1:1656:519:122:5:5
-54.2:brereto:15:47:x:x:x:x:private_letter:1520S:1520S:John_Puleston:_:m:_:William_Brereton:1490?:m:_:451:451:117:24:1:191:94:20:1:3265:635:136:2:20
+54.2:brereto:15:47:x:x:x:x:private_letter:1520:1520:John_Puleston:_:m:_:William_Brereton:1490?:m:_:451:451:117:24:1:191:94:20:1:3265:635:136:2:20
 54.20:brereto:629:638:x:x:x:x:public_letter:1532:1532:William_Paulet:1485:m:47:Randolph_Brereton:_:m:_:x:231:61:22:3:133:55:20:3:1720:332:133:17:10
 54.21:brereto:652:666:x:x:x:x:public_letter:1533:1533:William_Brereton:1490:m:43:Thomas_Cromwell:1485:m:48:x:357:93:14:0:163:78:11:0:2651:473:90:0:15
 54.22:brereto:680:690:x:x:x:x:public_letter:1534:1534:Leyson_Thomas:_:m:_:William_Brereton:1490:m:44:x:307:87:22:0:169:74:19:0:2251:578:143:0:11
@@ -6051,7 +6051,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 77.1:chapman-1774-1:x:x:x:x:x:x:education:1774:1774:George_Chapman:1723:m:51:x:xxxx:x:xx:x:9359:3409:149:66:1947:1445:71:53:42363:22452:955:354:356
 78.1:charles:109:121:x:x:x:x:public_letter:1660:1660:Charles_Stuart_Ii:1630:m:30:Henry_Jermyn:1605:m:55:x:199:50:8:0:105:50:8:0:1849:271:46:0:13
 78.2:charles:135:140:x:x:x:x:private_letter:1634:1634:Charles_Stuart_I:1600:m:34:Elizabeth_Stuart:1596:f:38:SISTER:128:39:6:0:77:34:6:0:1151:227:41:0:6
-78.3:charles:15:39:x:x:x:x:private_letter:1657?:1657?:Charles_Stuart_Ii:1630:m:27?:Henrietta_Maria_Stuart:1609:f:48?:0:406:118:6:0:174:91:6:0:2945:719:34:0:12
+78.3:charles:15:39:x:x:x:x:private_letter:1657:1657:Charles_Stuart_Ii:1630:m:27?:Henrietta_Maria_Stuart:1609:f:48?:0:406:118:6:0:174:91:6:0:2945:719:34:0:12
 78.4:charles:154:229:x:x:x:x:public_letter:1643:1643:Oliver_Cromwell:1599:m:44:Edmund_Bacon_&:_:m:_:x:1471:438:49:0:449:265:33:0:11821:2467:342:0:73
 78.5:charles:242:247:x:x:x:x:public_letter:1669:1669:Charles_Stuart_Ii:1630:m:39:John_Maitland:_:m:_:x:168:49:6:0:97:45:5:0:1175:320:39:0:6
 78.6:charles:260:288:x:x:x:x:public_letter:1678:1678:Nell[eleanor]_Gwynne:1650:f:28:Mr_Hyde:_:m:_:x:425:111:25:2:203:98:24:2:3742:584:127:11:29
@@ -6080,7 +6080,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 84.13:clerk:78:88:x:x:x:x:public_letter:1459:1459:Richard_Gryme:_:m:_:John_Ingoldesby:_:m:_:x:439:137:15:0:203:109:12:0:2436:742:99:0:11
 84.2:clerk:117:121:x:x:x:x:public_letter:1589:1589:Thomas_Fleming:1544:m:45:Peter_Stonor:_:m:_:x:182:46:13:0:109:38:12:0:1167:297:84:0:5
 84.3:clerk:135:148:x:x:x:x:public_letter:1589:1589:Garratt_Swift:_:m:_:Peter_Stonor:_:m:_:x:360:101:19:0:177:84:15:0:2422:562:127:0:14
-84.4:clerk:15:36:x:x:x:x:private_letter:1458?:1458?:Walter_Clerk:_:m:_?:William_Wainfleet:1400?:m:58?:0:344:102:11:0:171:88:9:0:2205:657:54:0:9
+84.4:clerk:15:36:x:x:x:x:private_letter:1458:1458:Walter_Clerk:_:m:_?:William_Wainfleet:1400?:m:58?:0:344:102:11:0:171:88:9:0:2205:657:54:0:9
 84.5:clerk:161:173:x:x:x:x:public_letter:1590:1590:Owyn_Hopton:_:m:_:Peter_Stonor:_:m:_:x:391:111:27:4:210:103:18:4:2543:769:184:14:11
 84.6:clerk:186:197:x:x:x:x:public_letter:1590:1590:Edward_Hayes:_:m:_:Peter_Stonor:_:m:_:x:261:82:4:0:148:73:4:0:1892:504:30:0:12
 84.7:clerk:210:221:x:x:x:x:public_letter:1590:1590:Michael_Leeman:_:m:_:Peter_Stonor:_:m:_:x:557:166:27:0:263:136:21:0:3321:1113:162:0:12
@@ -6098,7 +6098,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 85.18:cliffo:1331:1355:x:x:x:x:public_letter:1533:1533:Thomas_Wharton:1495:m:38:Henry_Clifford_Ii:1493:m:40:x:682:221:35:0:293:162:24:0:4980:1292:222:0:24
 85.19:cliffo:1368:1397:x:x:x:x:public_letter:1533:1533:Thomas_Wharton:1495:m:38:Henry_Clifford_Ii:1493:m:40:x:575:177:21:0:226:119:19:0:5020:958:146:0:30
 85.2:cliffo:1033:1038:x:x:x:x:private_letter:1536:1536:Charles_Brandon:1484:m:52:Henry_Clifford_Ii:1493:m:43:KIN:141:41:6:0:84:33:6:0:1093:221:41:0:6
-85.20:cliffo:14:33:x:x:x:x:private_letter:1490S:1490S:Henry_Tudor_Vii:1457:m:_:Henry_Clifford_I:1454:m:_:324:324:92:9:4:161:79:9:2:2038:593:46:34:8
+85.20:cliffo:14:33:x:x:x:x:private_letter:1490:1490:Henry_Tudor_Vii:1457:m:_:Henry_Clifford_I:1454:m:_:324:324:92:9:4:161:79:9:2:2038:593:46:34:8
 85.21:cliffo:1410:1436:x:x:x:x:public_letter:1534:1534:Thomas_Wharton:1495:m:39:Henry_Clifford_Ii:1493:m:41:x:596:188:18:0:262:146:18:0:4985:1181:128:0:27
 85.22:cliffo:1449:1460:x:x:x:x:public_letter:1530:1530:Thomas_Wharton:1495:m:_:Henry_Clifford_Ii:1493:m:_:x:262:76:16:0:136:66:15:0:2115:504:114:0:12
 85.23:cliffo:145:149:x:x:x:x:public_letter:1532:1532:Henry_Tudor_Viii:1491:m:41:Thomas_Clifford:1493:m:39:x:228:68:9:0:127:61:9:0:1375:428:55:0:5

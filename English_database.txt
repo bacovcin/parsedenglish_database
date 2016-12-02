@@ -1955,7 +1955,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 322.17:fox:682:694:x:x:x:x:public_letter:1514:1514:Thomas_Darcy:1467:m:47:Richard_Fox:1447:m:67:x:383:115:9:1:184:94:8:1:2447:666:50:4:13
 322.18:fox:709:730:x:x:x:x:public_letter:1515:1515:Richard_Fox:1447:m:68:Thomas_Wolsey:1473:m:42:x:519:144:23:8:211:103:14:6:3815:877:128:44:22
 322.19:fox:745:773:x:x:x:x:public_letter:1516:1516:Richard_Fox:1447:m:69:Thomas_Wolsey:1473:m:43:x:854:254:16:4:296:177:11:4:5412:1483:84:27:28
-322.2:fox:15:44:x:x:x:x:private_letter:1497?:1497?:Richard_Fox:1447:m:50?:Thomas_Darcy:1467:m:30?:246:246:61:11:0:118:53:9:0:2111:382:70:0:15
+322.2:fox:15:44:x:x:x:x:private_letter:1497:1497:Richard_Fox:1447:m:50?:Thomas_Darcy:1467:m:30?:246:246:61:11:0:118:53:9:0:2111:382:70:0:15
 322.20:fox:788:800:x:x:x:x:public_letter:1519:1519:Richard_Fox:1447:m:72:Thomas_Wolsey:1473:m:46:x:399:125:17:0:172:92:13:0:2514:734:92:0:12
 322.21:fox-e3-p2:x:x:x:x:x:x:autobiography:1673:1674:George_Fox:1624:m:49:x:xxxx:x:xx:x:18762:5793:1014:4:2336:1592:421:2:74612:33059:6704:26:1183
 322.21:fox-e3-h:x:x:x:x:x:x:autobiography:1673:1674:George_Fox:1624:m:49:x:xxxx:x:xx:x:18762:5793:1014:4:2336:1592:421:2:74612:33059:6704:26:1183
@@ -4769,7 +4769,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 537.8:royal1:296:317:x:x:x:x:private_letter:1586:1586:Elizabeth_Tudor:1533:f:53:James_Stuart_I/vi:1566:m:20:KIN:562:175:11:10:259:155:7:10:4458:1010:52:42:22
 537.9:royal1:332:353:x:x:x:x:private_letter:1586:1586:Elizabeth_Tudor:1533:f:53:James_Stuart_I/vi:1566:m:20:KIN:629:192:10:9:288:174:10:9:4584:1163:66:32:21
 538.1:royal2:0:16:x:x:x:x:private_letter:1612:1612:Elizabeth_Stuart:1596:f:16:James_Stuart_I/vi:1566:m:46:FATHER:106:42:3:0:77:39:3:0:828:269:24:0:3
-538.2:royal2:14:27:x:x:x:x:private_letter:1612?:1612?:Elizabeth_Stuart:1596:f:16?:James_Stuart_I/vi:1566:m:46?:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+538.2:royal2:14:27:x:x:x:x:private_letter:1612:1612:Elizabeth_Stuart:1596:f:16?:James_Stuart_I/vi:1566:m:46?:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 538.3:royal2:28:31:x:x:x:x:private_letter:1614:1614:Elizabeth_Stuart:1596:f:18:James_Stuart_I/vi:1566:m:48:FATHER:157:52:5:2:96:42:5:2:1079:275:36:5:4
 539.1:rplumpt-e1-p2:x:x:x:x:x:x:private_letter:1536:1536:Robert_Plumpton_Jr:1516:m:20:Isabel_Plumpton:1485:f:51:mother:853:244:59:0:318:174:29:0:3424:1444:332:0:36
 539.1:rplumpt-e1-p1:x:x:x:x:x:x:private_letter:1536:1536:Robert_Plumpton_Jr:1516:m:20:Isabel_Plumpton:1485:f:51:mother:853:244:59:0:318:174:29:0:3424:1444:332:0:36

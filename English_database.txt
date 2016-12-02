@@ -3237,7 +3237,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 486.1:origin1:1019:1062:x:x:x:x:public_letter:1523:1523:Thomas_Howard_Ii:1473:m:50:Thomas_Wolsey:1473:m:50:x:1260:401:70:0:439:257:30:0:9066:2195:444:0:44
 486.10:origin1:1307:1315:x:x:x:x:private_letter:1520:1520:Mary_Tudor:1496:f:_:Henry_Tudor_Viii:1491:m:_:BROTHER:236:66:5:0:115:56:5:0:1727:337:25:0:9
 486.11:origin1:1328:1334:x:x:x:x:public_letter:1528:1528:Anne_Boleyn:1501:f:27:Thomas_Wolsey:1473:m:55:x:295:92:6:0:171:87:6:0:1764:515:32:0:7
-486.12:origin1:14:41:x:x:x:x:private_letter:1418?:1418?:Henry_Chichele:1362?:m:56?:Henry_Tudor_V:1386:m:32?:563:563:173:30:1:240:135:25:1:3552:949:162:3:16
+486.12:origin1:14:41:x:x:x:x:private_letter:1418:1418:Henry_Chichele:1362?:m:56?:Henry_Tudor_V:1386:m:32?:563:563:173:30:1:240:135:25:1:3552:949:162:3:16
 486.13:origin1:141:149:x:x:x:x:public_letter:1497:1497:Henry_Tudor_Vii:1457:m:40:Gilbert_Talbot_1:1553:m:-56:x:350:105:22:0:180:87:20:0:2164:584:140:0:9
 486.14:origin1:163:177:x:x:x:x:public_letter:1490:1490:Henry_Tudor_Vii:1457:m:_:Oliver_King:_:m:_:x:444:121:54:0:212:102:33:0:2984:706:347:0:15
 486.15:origin1:191:196:x:x:x:x:public_letter:1490:1490:Henry_Tudor_Vii:1457:m:_:William_Say:_:m:_:x:232:71:11:0:129:64:8:0:1465:482:62:0:6

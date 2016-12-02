@@ -3019,7 +3019,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 439.1:manners-e1-p2:x:x:x:x:x:x:private_letter:1535:1535:Eleanor_Manners:1496:f:39:Honor_Lisle:1493:f:42:dist_eql:301:93:12:0:155:71:12:0:1223:533:78:0:10
 44.1:boethja-1897-1:x:x:x:x:x:x:philosophy:1897:1897:Henry_Rosher_James:1862:m:35:x:xxxx:x:xx:x:25242:9223:102:1:3700:2983:54:1:106520:55910:568:3:1338
 44.1:boethja-1897-2:x:x:x:x:x:x:philosophy:1897:1897:Henry_Rosher_James:1862:m:35:x:xxxx:x:xx:x:25242:9223:102:1:3700:2983:54:1:106520:55910:568:3:1338
-440.1:marchal:14:43:x:x:x:x:private_letter:1440S?:1440S?:Thomas_Maykyn:_:m:_:William_Marchall:_:m:_:426:426:117:26:0:178:86:20:0:2963:575:170:0:18
+440.1:marchal:14:43:x:x:x:x:private_letter:1440:1440:Thomas_Maykyn:_:m:_:William_Marchall:_:m:_:426:426:117:26:0:178:86:20:0:2963:575:170:0:18
 440.10:marchal:44:54:x:x:x:x:private_letter:1450:1450:Walter_Thame:_:m:_:Thomas_Dane:_:m:_:KIN:339:105:18:0:163:80:15:0:2241:598:87:0:11
 440.11:marchal:67:80:x:x:x:x:private_letter:1476:1476:John_Marchall:_:m:_:William_Marchall:_:m:_:UNCLE:329:81:25:5:158:67:22:5:2500:410:156:16:14
 440.12:marchal:93:150:x:x:x:x:public_letter:1440:1440:Thomas_Maykyn:_:m:_:William_Marchall:_:m:_:x:1316:389:55:0:412:248:43:0:9554:2011:374:0:58

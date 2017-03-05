@@ -6176,7 +6176,7 @@ TextID:TextName:StartId:EndId:Lat:Long:Location:Dialect:Genre:YoC:YoM:AuthName:A
 92.1:cmayenbi-m2:x:x:51.279958:1.079407:Canterbury:K:religion:1340:1340:Dan_Michel:1270:m:70:x:xxxx:x:xx:x:48069:16649:1309:77:5225:4262:208:42:200070:98605:6330:386:2575
 93.1:cmbenrul-m3:x:x:54.181727:-1.818237:x:canon_law:religious_rule:1425:1425:x:xxxx:m:xx:x:xxxx:x:xx:x:19104:5843:746:262:2697:1865:112:172:72604:30917:3598:1294:1282
 94.1:cmboeth-m3:x:x:51.4:-0.05:London:EM:philosophy:1380:1380:Geoffry_Chaucer:1343:m:37:x:xxxx:x:xx:x:10683:3705:96:29:1769:1290:14:23:45023:23193:487:132:523
-95.1:cmbrut3-m3:x:x:52.335182:-2.292722:Areley_Kings:WM:history:1215:1215:Layamon:xxxx:m:xx:x:xxxx:x:xx:x:52065:17105:4251:342:5326:3359:1147:113:217794:91813:28389:2654:3832
+95.1:cmbrut3-m3:x:x:52.335182:-2.292722:Areley_Kings:WM:history:1385:1385:x:xxxx:x:xx:x:xxxx:x:xx:x:52065:17105:4251:342:5326:3359:1147:113:217794:91813:28389:2654:3832
 96.1:cmcapchr-m4:x:x:52.747931:0.3:King's_Lynn_Norfolk:EM:history:1464:1464:John_Capgrave:1393:m:71:x:xxxx:x:xx:x:54286:17871:5406:751:6458:3709:1795:503:225523:93858:35634:4386:4113
 97.1:cmcapser-m4:x:x:52.75:0.4:King's_Lynn_Norfolk:EM:sermon:1452:1452:John_Capgrave:1393:m:59:x:xxxx:x:xx:x:1538:518:124:5:510:312:70:5:6167:2794:744:26:88
 98.1:cmcloud-m3:x:x:52.402419:0.32959:North_Central?:EM:religion:1372:1372:x:xxxx:m:xx:x:xxxx:x:xx:x:16461:5480:260:0:2168:1646:44:0:66213:31882:1103:0:730
